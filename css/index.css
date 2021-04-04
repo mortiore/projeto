@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+h1{
+  text-align: center;
+  color: #32B3D7;
+  font-size: 80px;  
+}
+
+.row{
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 25px;
+}
+
+#txtUsuario{
+  border-radius: 100px;
+}
